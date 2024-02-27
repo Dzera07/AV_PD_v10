@@ -1,0 +1,10 @@
+C:\Users\av2540\source\repos\AV_PD_v10\obj\Debug\AV_PD_v10.csprojAssemblyReference.cache
+C:\Users\av2540\source\repos\AV_PD_v10\obj\Debug\AV_PD_v10.Form1.resources
+C:\Users\av2540\source\repos\AV_PD_v10\obj\Debug\AV_PD_v10.Properties.Resources.resources
+C:\Users\av2540\source\repos\AV_PD_v10\obj\Debug\AV_PD_v10.csproj.GenerateResource.cache
+C:\Users\av2540\source\repos\AV_PD_v10\obj\Debug\AV_PD_v10.csproj.CoreCompileInputs.cache
+C:\Users\av2540\source\repos\AV_PD_v10\bin\Debug\AV_PD_v10.exe.config
+C:\Users\av2540\source\repos\AV_PD_v10\bin\Debug\AV_PD_v10.exe
+C:\Users\av2540\source\repos\AV_PD_v10\bin\Debug\AV_PD_v10.pdb
+C:\Users\av2540\source\repos\AV_PD_v10\obj\Debug\AV_PD_v10.exe
+C:\Users\av2540\source\repos\AV_PD_v10\obj\Debug\AV_PD_v10.pdb
